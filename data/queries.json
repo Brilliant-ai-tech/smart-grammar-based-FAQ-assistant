@@ -1,0 +1,59 @@
+[
+  {"id": 1, "text": "Good morning, I would like to know when the CAT 2 marks for Data Structures will be released.", "category": "EXAM_RESULTS", "recipient": "COD"},
+  {"id": 2, "text": "Please when will the end of semester results for third year be uploaded on the portal?", "category": "EXAM_RESULTS", "recipient": "COD"},
+  {"id": 3, "text": "I want to check my grade for the Software Engineering unit because it is still missing.", "category": "EXAM_RESULTS", "recipient": "COD"},
+  {"id": 4, "text": "Good afternoon, could you tell me when second year results will be released to us?", "category": "EXAM_RESULTS", "recipient": "Dean"},
+  {"id": 5, "text": "I would like to know my exam results for Discrete Mathematics from last semester.", "category": "EXAM_RESULTS", "recipient": "COD"},
+
+  {"id": 6, "text": "My marks for the Operating Systems CAT are missing from the results portal, please help.", "category": "MISSING_MARKS", "recipient": "COD"},
+  {"id": 7, "text": "I did the Networking exam but my mark is not reflecting anywhere, what should I do?", "category": "MISSING_MARKS", "recipient": "COD"},
+  {"id": 8, "text": "Good morning, I want to report a missing mark for my Database Systems assignment.", "category": "MISSING_MARKS", "recipient": "COD"},
+
+  {"id": 9, "text": "I would like to know how I can register for a supplementary exam in Algorithms.", "category": "SUPPLEMENTARY_RETAKE", "recipient": "COD"},
+  {"id": 10, "text": "Please advise me on the retake process for the Computer Networks unit I failed.", "category": "SUPPLEMENTARY_RETAKE", "recipient": "COD"},
+  {"id": 11, "text": "When is the supplementary exam timetable for first year going to be released?", "category": "SUPPLEMENTARY_RETAKE", "recipient": "Dean"},
+  {"id": 12, "text": "I want to know the fee for a retake exam in Software Engineering.", "category": "SUPPLEMENTARY_RETAKE", "recipient": "COD"},
+
+  {"id": 13, "text": "Good morning, I would like to know the requirements for industrial attachment placement.", "category": "ATTACHMENT_INTERNSHIP", "recipient": "COD"},
+  {"id": 14, "text": "Could you assist me in getting an attachment letter for my internship application?", "category": "ATTACHMENT_INTERNSHIP", "recipient": "COD"},
+  {"id": 15, "text": "I want to know when the industrial attachment period for third years begins.", "category": "ATTACHMENT_INTERNSHIP", "recipient": "Dean"},
+  {"id": 16, "text": "Please I need my attachment evaluation forms signed before I go for internship.", "category": "ATTACHMENT_INTERNSHIP", "recipient": "COD"},
+
+  {"id": 17, "text": "I would like to register for the Machine Learning unit before the deadline.", "category": "UNIT_REGISTRATION", "recipient": "COD"},
+  {"id": 18, "text": "Good afternoon, how do I add a unit that is missing from my registration?", "category": "UNIT_REGISTRATION", "recipient": "COD"},
+  {"id": 19, "text": "I want to drop the Computer Graphics unit from my current semester registration.", "category": "UNIT_REGISTRATION", "recipient": "COD"},
+  {"id": 20, "text": "Please help me register for a unit I missed during the normal registration period.", "category": "UNIT_REGISTRATION", "recipient": "COD"},
+
+  {"id": 21, "text": "I would like to change my elective unit from AI to Human Computer Interaction.", "category": "ELECTIVE_CHANGE", "recipient": "COD"},
+  {"id": 22, "text": "Good morning, can I switch my elective unit to Cloud Computing this semester?", "category": "ELECTIVE_CHANGE", "recipient": "COD"},
+  {"id": 23, "text": "I want to know the deadline for changing my elective unit selection.", "category": "ELECTIVE_CHANGE", "recipient": "COD"},
+
+  {"id": 24, "text": "Please could you share the updated class timetable for second year computer science.", "category": "TIMETABLE_SCHEDULE", "recipient": "COD"},
+  {"id": 25, "text": "I want to know why our lecture schedule for Networks keeps changing every week.", "category": "TIMETABLE_SCHEDULE", "recipient": "COD"},
+  {"id": 26, "text": "Good afternoon, when will the exam timetable for this semester be released?", "category": "TIMETABLE_SCHEDULE", "recipient": "Dean"},
+
+  {"id": 27, "text": "I would like to know who my project supervisor is for my final year thesis.", "category": "SUPERVISION_PROJECT", "recipient": "COD"},
+  {"id": 28, "text": "Good morning, I want to request a change of supervisor for my capstone project.", "category": "SUPERVISION_PROJECT", "recipient": "COD"},
+  {"id": 29, "text": "Please when is the project proposal defense scheduled for final year students?", "category": "SUPERVISION_PROJECT", "recipient": "COD"},
+  {"id": 30, "text": "I need my supervisor to review my thesis chapter before the submission deadline.", "category": "SUPERVISION_PROJECT", "recipient": "COD"},
+
+  {"id": 31, "text": "I would like to apply for deferment of my studies for this semester due to illness.", "category": "DEFERMENT", "recipient": "Dean"},
+  {"id": 32, "text": "Please advise me on the procedure for deferring my second semester exams.", "category": "DEFERMENT", "recipient": "Dean"},
+  {"id": 33, "text": "I want to know if I can defer only one unit instead of the whole semester.", "category": "DEFERMENT", "recipient": "COD"},
+
+  {"id": 34, "text": "Good morning, I want to know my fee balance before I can be cleared for exams.", "category": "FEE_CLEARANCE", "recipient": "Dean"},
+  {"id": 35, "text": "Please clear me for the CAT since I have already paid the minimum fee balance.", "category": "FEE_CLEARANCE", "recipient": "COD"},
+  {"id": 36, "text": "I would like to know the fee clearance requirements before graduation.", "category": "FEE_CLEARANCE", "recipient": "Dean"},
+
+  {"id": 37, "text": "I want to transfer from Business Information Technology to Computer Science.", "category": "COURSE_TRANSFER", "recipient": "Dean"},
+  {"id": 38, "text": "Please advise on the process of transferring my units from another university.", "category": "COURSE_TRANSFER", "recipient": "COD"},
+  {"id": 39, "text": "I would like to know if I can transfer to the parallel programme this semester.", "category": "COURSE_TRANSFER", "recipient": "Dean"},
+
+  {"id": 40, "text": "Good morning, I would like a recommendation letter for a scholarship application.", "category": "RECOMMENDATION_LETTER", "recipient": "Dean"},
+  {"id": 41, "text": "Please could you write me a reference letter for my job application.", "category": "RECOMMENDATION_LETTER", "recipient": "COD"},
+  {"id": 42, "text": "I need an academic recommendation letter to support my masters application.", "category": "RECOMMENDATION_LETTER", "recipient": "Dean"},
+
+  {"id": 43, "text": "I want to report that the computer lab machines are not working properly.", "category": "LAB_SOFTWARE_ISSUE", "recipient": "COD"},
+  {"id": 44, "text": "Please help me get a licensed copy of the software required for my project.", "category": "LAB_SOFTWARE_ISSUE", "recipient": "COD"},
+  {"id": 45, "text": "I would like to know how I can access the computer lab during the weekend.", "category": "LAB_SOFTWARE_ISSUE", "recipient": "COD"}
+]
