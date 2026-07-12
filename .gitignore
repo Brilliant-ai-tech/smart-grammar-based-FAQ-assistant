@@ -1,0 +1,38 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets/config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Logs and local runtime files
+*.log
+logs/
+
+# Generated outputs
+results/
+*.wav
+*.mp3
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
